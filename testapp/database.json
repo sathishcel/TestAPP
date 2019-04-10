@@ -1,0 +1,17 @@
+{
+      "dev": {
+          "driver": "pg",
+          "host": "localhost",
+          "user": "postgres",
+          "password": "postgres",
+          "database": "ewa_development"
+      },
+      "test": {
+          "driver": "pg",
+          "host": "localhost",
+          "user": "postgres",
+          "password": "postgres",
+          "database": "ewa_test"
+      }
+  }
+
